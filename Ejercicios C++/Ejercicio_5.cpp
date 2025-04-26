@@ -1,6 +1,6 @@
 /*Escribe un programa en C++ que tome un entero impar n>=3 
-como entrada e imprima por consola un patrÛn triangular 
-utilizando el car·cter asterisco ('*'). */
+como entrada e imprima por consola un patr√≥n triangular 
+utilizando el car√°cter asterisco ('*'). */
 
 #include <iostream>
 using namespace std;
